@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Anthony 👋
 
-<!--
-**omgsh/omgsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Self-taught software developer who ships fast with AI-assisted development. Since May 2026 I've built and launched a portfolio of products on my own under Fierce Builds LLC.
 
-Here are some ideas to get you started:
+**Stack:** React · TypeScript · Next.js · Vite · Supabase (Postgres) · Vercel · Stripe · Shopify billing · Meta Marketing API · LLM APIs · Lovable · Dyad
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Shipped products
+- **[ShopAd.ai](https://apps.shopify.com/shopad-ai):** Shopify App Store app that generates AI video ads and runs Meta campaigns
+- **[MapScout](https://mapscoutseo.com):** local-SEO geo-grid rank tracking SaaS (Next.js + Supabase)
+- **[EcomNexusHub](https://www.ecomnexushub.com):** 50-state sales-tax nexus tracker with Shopify, Amazon and Stripe integrations
+- **[TrackMyASIN](https://trackmyasin.com):** Amazon sales-intelligence tool
+- **Chrome extensions:** LumenShade, Color Pick Pal, Tab Vault, Tab Silo, SmartScrape AI
+
+Before software, I founded and ran a 7-figure e-commerce business, so I build with real business workflows in mind.
+
+📫 anthonyrossi01@gmail.com · [LinkedIn](https://www.linkedin.com/in/anthonyrossi01) · [Portfolio](https://www.fiercebuilds.com/portfolio)
